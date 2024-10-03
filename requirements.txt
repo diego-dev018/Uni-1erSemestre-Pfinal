@@ -1,0 +1,4 @@
+datetime~=5.5
+cryptography~=43.0.1
+readchar~=4.2.0
+pywhatkit~=5.4
